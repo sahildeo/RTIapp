@@ -1,1 +1,1 @@
-# RTIapp
+# RTI app
